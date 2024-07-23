@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6383834244187198344}
   m_Layer: 31
   m_Name: Y
-  m_TagString: Untagged
+  m_TagString: Axis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 8535483551588502377}
   m_Layer: 31
   m_Name: MoveAxes
-  m_TagString: Untagged
+  m_TagString: Axis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -171,6 +171,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e6401b0f6d3beb48a459f19036b6c8e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  currentMoveAxisParent: {fileID: 0}
 --- !u!1 &1944292833705081599
 GameObject:
   m_ObjectHideFlags: 0
@@ -186,7 +187,7 @@ GameObject:
   - component: {fileID: 8159017586132162078}
   m_Layer: 31
   m_Name: Z
-  m_TagString: Untagged
+  m_TagString: Axis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -307,7 +308,7 @@ GameObject:
   - component: {fileID: 7034642525485732940}
   m_Layer: 31
   m_Name: X
-  m_TagString: Untagged
+  m_TagString: Axis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -428,7 +429,7 @@ GameObject:
   - component: {fileID: 8205323245039705318}
   m_Layer: 31
   m_Name: YZ
-  m_TagString: Untagged
+  m_TagString: Axis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -547,7 +548,7 @@ GameObject:
   - component: {fileID: 4462767067172688702}
   m_Layer: 31
   m_Name: XZ
-  m_TagString: Untagged
+  m_TagString: Axis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -666,7 +667,7 @@ GameObject:
   - component: {fileID: 7183594642093035278}
   m_Layer: 31
   m_Name: XY
-  m_TagString: Untagged
+  m_TagString: Axis
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
