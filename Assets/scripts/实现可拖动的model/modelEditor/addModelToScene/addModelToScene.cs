@@ -35,7 +35,6 @@ public class addModelToScene : baseManager<addModelToScene>
 
         if(mousePositionGameObject != null){
             // Cube.transform.position = new Vector3(0, 0, 0);
-
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;//   碰撞点 是 世界 坐标系
             bool res = Physics.Raycast(ray,out hit);
@@ -43,18 +42,13 @@ public class addModelToScene : baseManager<addModelToScene>
                 Vector3 pos = hit.point;
                 Cube.transform.position = pos;
             }
-
-
-            
         } else {
-            Vector3 pos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            Vector3 screenZeroPosition = Camera.main.WorldToScreenPoint(Vector3.zero);
+            Vector3 pos = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, Input.mousePosition.y, screenZeroPosition.z));
             pos.z = 0;
             Cube.transform.position = pos;
-
         }
-
         Cube.transform.tag = "device";
-
     }
 
     GameObject cubeCube(string name, Color color){

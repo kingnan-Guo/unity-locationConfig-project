@@ -41,4 +41,19 @@ public class globalUtils : baseManager<globalUtils>
         }
         
     }
+
+
+    /// 截流
+    /// /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="time">间隔时间</param>
+    /// <param name="action">执行方法</param>
+    /// <returns></returns>
+    public IEnumerator DelayInvoke(float time, System.Action action)
+    {
+        yield return new WaitForSeconds(time);
+        action();
+    }
+
 }
