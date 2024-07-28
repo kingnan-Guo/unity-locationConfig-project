@@ -105,7 +105,7 @@ public class DragTo3D : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDrag
 
         if(gameObject != null){
 
-            EventCenter.getInstance().EventTrigger("2dModelMoveTo3D", gameObject.name);
+            EventCenter.getInstance().EventTrigger("2dModelTo3DModel", gameObject.name);
             // EventCenterOptimize.getInstance().EventTrigger<string>("2dModelMoveTo3D", gameObject.name);
             Debug.Log("OnEndDrag eventData == gameObject.name ==" + gameObject.name );
 

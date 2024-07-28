@@ -96,7 +96,6 @@ public class mouseInputMgr : baseManager<mouseInputMgr>
     }
 
     private void myUpdate(){
-
         // Debug.Log("鼠标检测");
         // if(!isStart){
         //     return;
@@ -109,7 +108,6 @@ public class mouseInputMgr : baseManager<mouseInputMgr>
 
         // checkedKeyCode(MouseButton.Left);
         // checkedKeyCode(MouseButton.Left);
-
         checkedKeyCode();
 
     }

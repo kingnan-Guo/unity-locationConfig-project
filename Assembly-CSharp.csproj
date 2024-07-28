@@ -79,8 +79,8 @@
     <Compile Include="Assets/scripts/baseProject/切换场景/ScenceMgr.cs" />
     <Compile Include="Assets/scripts/baseProject/公共Mono模块/MonoDemo.cs" />
     <Compile Include="Assets/scripts/pureMVC/Controller/upDateDataCommand.cs" />
-    <Compile Include="Assets/scripts/baseProject/缓存池模块优化/poolManager.cs" />
     <Compile Include="Assets/scripts/pureMVC/View/newMainView.cs" />
+    <Compile Include="Assets/scripts/baseProject/缓存池模块优化/poolManager.cs" />
     <Compile Include="Assets/scripts/摄像机/cameraPosition.cs" />
     <Compile Include="Assets/scripts/实现可拖动的model/坐标轴/ScaleAxes.cs" />
     <Compile Include="Assets/scripts/baseProject/输入控制模块/InputMgr.cs" />

@@ -123,11 +123,11 @@ public class cameraOperation : MonoBehaviour
     {
         if (Input.GetAxis("Mouse ScrollWheel") > 0)
         {
-            transform.Translate(Vector3.forward * 10f);//速度可调  自行调整
+            transform.Translate(Vector3.forward * 3f);//速度可调  自行调整
         }
         if (Input.GetAxis("Mouse ScrollWheel") < 0)
         {
-            transform.Translate(Vector3.forward * -10f);//速度可调  自行调整
+            transform.Translate(Vector3.forward * -3f);//速度可调  自行调整
         }
     }
     //摄像机的旋转

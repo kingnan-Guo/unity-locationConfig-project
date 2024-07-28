@@ -12,9 +12,11 @@ public class getCurrentGameObject
     private Transform currentTransform;
     public getCurrentGameObject(){
         EventCenterOptimize.getInstance().AddEventListener<GameObject>("mouseMovePositionPhysics", (res) => {
-            // Debug.Log("transformModelController == " + res.name);
-
-            selectModel(res);
+            if(res != null){
+                // Debug.Log("transformModelController == " + res.name);
+                selectModel(res);
+            }
+            
         });
     }
 

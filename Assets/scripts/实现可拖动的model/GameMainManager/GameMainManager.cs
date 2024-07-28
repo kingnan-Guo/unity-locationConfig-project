@@ -49,7 +49,7 @@ public class GameMainManager : SingletonAutoMono<GameMainManager>
 
 
 
-    public AxisComponentType axisComponentType = AxisComponentType.RotateAxes;
+    public AxisComponentType axisComponentType = AxisComponentType.moveAxes;
 
     #endregion
 
@@ -86,6 +86,7 @@ public class GameMainManager : SingletonAutoMono<GameMainManager>
 
         addModelToScene addModelToScene = new addModelToScene();
         
+
 
         #endregion
     }
