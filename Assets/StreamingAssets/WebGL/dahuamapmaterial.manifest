@@ -1,0 +1,124 @@
+ManifestFileVersion: 0
+CRC: 226089502
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44642871eb3e16433be83a98c85fcc28
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d093761738ba1bf8a6d5cff5da6e8997
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 44642871eb3e16433be83a98c85fcc28
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/dahua/Materials/ck001.002.mat
+- Assets/dahua/textures/ld26.jpg
+- Assets/dahua/textures/ld29.jpg
+- Assets/dahua/Materials/1K-asphalt_11_Reflect.mat
+- Assets/dahua/Materials/ld_jinshu.mat
+- Assets/dahua/Materials/White_cz.mat
+- Assets/dahua/Materials/bl001.002.mat
+- "Assets/dahua/textures/\u70D8\u57F901_\u6C34\u7BB1A.JPG"
+- Assets/dahua/textures/dimian_cz.jpg
+- "Assets/dahua/Materials/\u70D8\u57F901_\u6C34\u7BB1A.mat"
+- Assets/dahua/Materials/floor_bl.mat
+- Assets/dahua/Materials/bl001.mat
+- Assets/dahua/Materials/qiangmian.mat
+- "Assets/dahua/Materials/\u70D8\u57F901_\u7A7A\u8C03\u673AB.mat"
+- Assets/dahua/Materials/ld24.mat
+- Assets/dahua/textures/H3 Dif.jpg
+- Assets/dahua/Materials/PhysicalMaterial.004.mat
+- Assets/dahua/Materials/PhysicalMaterial.009.mat
+- Assets/dahua/Materials/ck001.mat
+- Assets/dahua/Materials/bl001.003.mat
+- Assets/dahua/textures/r8 Bum.jpg
+- Assets/dahua/textures/JN_di mian.jpg
+- Assets/dahua/textures/concrete_pavement_nor_gl_1k.exr
+- Assets/dahua/textures/1K-asphalt_11_Normal.jpg
+- Assets/dahua/Materials/ld29.mat
+- Assets/dahua/Materials/ck001.001.mat
+- Assets/dahua/Materials/PhysicalMaterial.018.mat
+- Assets/dahua/Materials/PhysicalMaterial.011.mat
+- Assets/dahua/Materials/paodao_hong.mat
+- Assets/dahua/Materials/river_01.mat
+- Assets/dahua/Materials/ck001.003.mat
+- Assets/dahua/Materials/road_body.mat
+- Assets/dahua/Materials/r8 Bum.mat
+- Assets/dahua/Materials/dimian_cz.mat
+- "Assets/dahua/textures/\u70D8\u57F901_\u7A7A\u8C03\u673AB.JPG"
+- Assets/dahua/Materials/ld43.mat
+- Assets/dahua/Materials/logo_huang.mat
+- Assets/dahua/textures/concrete_pavement_diff_1k.jpg
+- Assets/dahua/Materials/floor_db.mat
+- Assets/dahua/Materials/guanwang_hong.mat
+- Assets/dahua/Materials/floor_qt.mat
+- "Assets/dahua/Materials/\u6750\u8D28.003.mat"
+- Assets/dahua/Materials/White_cz.001.mat
+- Assets/dahua/textures/rock_tile_floor_diff_2k.jpg
+- Assets/dahua/textures/Parking 011.jpg
+- Assets/dahua/Materials/H3 Dif.mat
+- "Assets/dahua/Materials/\u6750\u8D28.001.mat"
+- Assets/dahua/textures/Charg Dif.jpg
+- Assets/dahua/Materials/r8 copy.mat
+- Assets/dahua/Materials/ld26.mat
+- Assets/dahua/textures/ld24.jpg
+- Assets/dahua/Materials/PhysicalMaterial.010.mat
+- Assets/dahua/Materials/jianzhu_wb.mat
+- Assets/dahua/Materials/concrete_pavement_diff_1k.mat
+- Assets/dahua/Materials/paodao_bai.mat
+- Assets/dahua/textures/s-ph2g.jpg
+- Assets/dahua/textures/1K-asphalt_11_Reflect.jpg
+- Assets/dahua/Materials/Charg Dif.mat
+- Assets/dahua/Materials/ld_light.mat
+- Assets/dahua/textures/ld43.jpg
+- Assets/dahua/Materials/PhysicalMaterial.019.mat
+- Assets/dahua/Materials/rock_tile_floor_diff_2k.mat
+- Assets/dahua/Materials/guanwang_lan.mat
+- Assets/dahua/Materials/JN_di mian.mat
+- Assets/dahua/Materials/guanwang_bai.mat
+- Assets/dahua/Materials/PhysicalMaterial.003.mat
+- "Assets/dahua/Materials/\u6750\u8D28.004.mat"
+- "Assets/dahua/Materials/\u70D8\u57F901_\u7A7A\u8C03\u673AA.mat"
+- Assets/dahua/textures/floor_db.png
+- Assets/dahua/Materials/logo_hong.mat
+- "Assets/dahua/textures/\u70D8\u57F901_\u7A7A\u8C03\u673AA.JPG"
+- Assets/dahua/Materials/s-ph2g.mat
+- Assets/dahua/textures/qiangmian.png
+- Assets/dahua/Materials/c.mat
+- Assets/dahua/Materials/logo_bai.mat
+- Assets/dahua/textures/ld30.jpg
+- Assets/dahua/textures/c.jpg
+- Assets/dahua/Materials/door_bl.mat
+- Assets/dahua/textures/road_body.jpg
+- Assets/dahua/textures/rock_tile_floor_nor_gl_2k.exr
+- Assets/dahua/Materials/bl001.001.mat
+- Assets/dahua/dahuyuahqu.fbx
+- Assets/dahua/textures/efef.TIF
+- Assets/dahua/textures/r8 copy.jpg
+- Assets/dahua/Materials/ld30.mat
+- "Assets/dahua/Materials/\u6750\u8D28.002.mat"
+- Assets/dahua/Materials/Parking 011.mat
+- Assets/dahua/Materials/PhysicalMaterial.005.mat
+- Assets/dahua/Materials/efef.mat
+Dependencies: []

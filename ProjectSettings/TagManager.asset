@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - 2dDevice
+  - 2dBackground
+  - building
+  - device
   layers:
   - Default
   - TransparentFX
