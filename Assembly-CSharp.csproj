@@ -109,6 +109,7 @@
     <Compile Include="Assets/scripts/TEMP/创建xyz轴/createCubeWithXYZ.cs" />
     <Compile Include="Assets/Runtime/SkipSplash.cs" />
     <Compile Include="Assets/scripts/project/实现可拖动的model/GameMainManager/mainManager.cs" />
+    <Compile Include="Assets/scripts/project/canvas相关/楼层卡片/buildingCarfController.cs" />
     <Compile Include="Assets/scripts/MVC/Model/JsonDataManager.cs" />
     <Compile Include="Assets/scripts/baseProject/事件中心/EventCenterOptimize.cs" />
     <Compile Include="Assets/scripts/baseProject/公共Mono模块/MonoManager.cs" />
@@ -123,6 +124,7 @@
     <Compile Include="Assets/scripts/baseProject/缓存池模块优化/poolManagerOptimize.cs" />
     <Compile Include="Assets/scripts/project/建筑物模型/加载本地模型/getLocalModel.cs" />
     <Compile Include="Assets/scripts/baseProject/UI模块/panelFirst.cs" />
+    <Compile Include="Assets/scripts/project/canvas相关/楼层卡片/buildingCardView.cs" />
     <Compile Include="Assets/scripts/baseProject/事件中心/EventCenter.cs" />
     <Compile Include="Assets/scripts/project/建筑物模型/建筑物相关操作/Temp/buildingController1.cs" />
     <Compile Include="Assets/scripts/MPV/View/MPV_View.cs" />
