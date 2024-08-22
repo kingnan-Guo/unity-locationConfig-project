@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - 2dFloorButton
+  - 2dBackground
+  - 2dDevice
+  - mainCanvas
+  - device
+  - building
+  - mainMap
+  - 2dBuildingButton
+  - 2dDeviceDisabled
   layers:
   - Default
   - TransparentFX

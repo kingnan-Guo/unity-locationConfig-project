@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2220986573
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: treemap
+      Dependencies:
+        Dependency_0: treemapmaterials
+    Info_1:
+      Name: mainmap
+      Dependencies:
+        Dependency_0: mainmapmaterials
+    Info_2:
+      Name: treemapmaterials
+      Dependencies: {}
+    Info_3:
+      Name: mainmapmaterials
+      Dependencies: {}
