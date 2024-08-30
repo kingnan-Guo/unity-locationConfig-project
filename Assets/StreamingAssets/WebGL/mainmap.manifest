@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 72835200
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d5440a7b1cd610f17696044f58799c3a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a3c8e9364a60c76c5b1821efa7fc8a17
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d5440a7b1cd610f17696044f58799c3a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/mainMap.prefab
+Dependencies:
+- D:/ProgramData/Unity/project/dahua/AssetBundles/WebGL/mainmapmaterials

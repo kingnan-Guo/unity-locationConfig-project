@@ -1,0 +1,124 @@
+ManifestFileVersion: 0
+CRC: 2263969640
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0ebbc86c54742250eda33e2715d71401
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8d1e4a06e3ac6bc8f3d38e2951afd8b0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0ebbc86c54742250eda33e2715d71401
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Animated Trees Package/Textures/oak_leaves_normal.png
+- Assets/Animated Trees Package/Textures/birch_bark_color.png
+- Assets/Animated Trees Package/Materials/fir_bark.mat
+- Assets/Animated Trees Package/Models/Maples/maple_1.controller
+- Assets/Animated Trees Package/Models/Pines/pine_1.fbx
+- Assets/Animated Trees Package/Textures/juniper_leaves_1_color.png
+- Assets/Animated Trees Package/Models/Beeches/beech_1.fbx
+- Assets/Animated Trees Package/Textures/maple_bark_color.png
+- Assets/Animated Trees Package/Textures/maple_leaves_2_normal.png
+- Assets/Animated Trees Package/Prefabs/Animated/Pines/Pine 1.prefab
+- Assets/Animated Trees Package/Textures/fir_bark_normal.png
+- Assets/Animated Trees Package/Textures/juniper_bark_normal.png
+- Assets/Animated Trees Package/Prefabs/Animated/Beeches/Beech 1.prefab
+- Assets/Animated Trees Package/Textures/juniper_leaves_2_color.png
+- Assets/Animated Trees Package/Models/Birches/birch_2.controller
+- Assets/Animated Trees Package/Textures/pine_leaves_normal.png
+- Assets/Animated Trees Package/Models/Firs/fir_4.fbx
+- Assets/Animated Trees Package/Models/Pines/pine_1.controller
+- Assets/Animated Trees Package/Models/Beeches/beech_1.controller
+- Assets/Animated Trees Package/Models/Maples/maple_1.fbx
+- Assets/Animated Trees Package/Textures/acacia_bark_color.png
+- Assets/Animated Trees Package/Textures/beech_leaves_1_color.png
+- Assets/Animated Trees Package/Textures/birch_leaves_1_color.png
+- Assets/Animated Trees Package/Textures/pine_bark_1_color.png
+- Assets/Animated Trees Package/Textures/oak_leaves_color.png
+- Assets/Animated Trees Package/Prefabs/Animated/Junipers/Juniper 1.prefab
+- Assets/Animated Trees Package/Materials/fir_leaves.mat
+- Assets/Animated Trees Package/Textures/juniper_leaves_1_normal.png
+- Assets/Animated Trees Package/Textures/fir_bark_color.png
+- Assets/Animated Trees Package/Prefabs/Animated/Maples/Maple 2.prefab
+- Assets/Animated Trees Package/Materials/oak_leaves.mat
+- Assets/Animated Trees Package/Prefabs/Animated/Birches/Birch 2.prefab
+- Assets/Animated Trees Package/Models/Birches/birch_1.controller
+- Assets/Animated Trees Package/Models/Maples/maple_2.fbx
+- Assets/Animated Trees Package/Materials/birch_leaves_1.mat
+- Assets/Animated Trees Package/Models/Oaks/oak_1.fbx
+- Assets/Animated Trees Package/Models/Firs/fir_4.controller
+- Assets/Animated Trees Package/Textures/maple_bark_normal.png
+- Assets/Animated Trees Package/Materials/juniper_leaves_2.mat
+- Assets/Animated Trees Package/Materials/juniper_leaves_1.mat
+- Assets/Animated Trees Package/Materials/pine_leaves.mat
+- Assets/Animated Trees Package/Materials/juniper_bark.mat
+- Assets/Animated Trees Package/Models/Birches/birch_2.fbx
+- Assets/Animated Trees Package/Textures/birch_bark_normal.png
+- Assets/Animated Trees Package/Textures/maple_leaves_1_normal.png
+- Assets/Animated Trees Package/Models/Junipers/juniper_1.controller
+- Assets/Animated Trees Package/Prefabs/Animated/Firs/Fir 4.prefab
+- Assets/Animated Trees Package/Textures/birch_leaves_1_normal.png
+- Assets/Animated Trees Package/Models/Birches/birch_1.fbx
+- Assets/Animated Trees Package/Textures/fir_leaves_normal.png
+- Assets/Animated Trees Package/Textures/beech_bark_color.png
+- Assets/Animated Trees Package/Textures/beech_leaves_2_normal.png
+- Assets/Animated Trees Package/Textures/maple_leaves_2_color.png
+- Assets/Animated Trees Package/Models/Oaks/oak_1.controller
+- Assets/Animated Trees Package/Materials/oak_bark.mat
+- Assets/Animated Trees Package/Materials/pine_bark_1.mat
+- Assets/Animated Trees Package/Textures/pine_bark_1_normal.png
+- Assets/Animated Trees Package/Materials/beech_leaves_1.mat
+- Assets/Animated Trees Package/Materials/beech_leaves_2.mat
+- Assets/Animated Trees Package/Materials/maple_leaves_2.mat
+- Assets/Animated Trees Package/Shaders/StandardDoubleSided.shader
+- Assets/Animated Trees Package/Models/Maples/maple_2.controller
+- Assets/Animated Trees Package/Textures/oak_bark_normal.png
+- Assets/Animated Trees Package/Textures/maple_leaves_1_color.png
+- Assets/Animated Trees Package/Textures/beech_leaves_2_color.png
+- Assets/Animated Trees Package/Textures/juniper_bark_color.png
+- Assets/Animated Trees Package/Prefabs/Animated/Oaks/Oak 1.prefab
+- Assets/Animated Trees Package/Models/Junipers/juniper_1.fbx
+- Assets/Animated Trees Package/Prefabs/Animated/Maples/Maple 1.prefab
+- Assets/Animated Trees Package/Textures/fir_leaves_color.png
+- Assets/Animated Trees Package/Textures/juniper_leaves_2_normal.png
+- Assets/Animated Trees Package/Textures/beech_bark_normal.png
+- Assets/Animated Trees Package/Textures/pine_leaves_color.png
+- Assets/Animated Trees Package/Materials/maple_leaves_1.mat
+- Assets/Animated Trees Package/Materials/maple_bark.mat
+- Assets/Animated Trees Package/Materials/beech_bark.mat
+- Assets/Animated Trees Package/Textures/beech_leaves_1_normal.png
+- Assets/Animated Trees Package/Materials/birch_bark.mat
+- Assets/Animated Trees Package/Prefabs/Animated/Birches/Birch 1.prefab
+- Assets/Animated Trees Package/Textures/oak_bark_color.png
+- Assets/Animated Trees Package/Textures/acacia_leaves_color.png
+Dependencies: []

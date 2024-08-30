@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - 2dDevice
+  - Axis
+  - 2dFloorButton
+  - 2dBackground
+  - 2dButton
+  - mainCanvas
+  - device
+  - mainMap
+  - 2dBuildingButton
+  - building
+  - 2dDeviceDisabled
   layers:
   - Default
   - TransparentFX
@@ -36,7 +47,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - arrow
   m_SortingLayers:
   - name: Default
     uniqueID: 0
