@@ -59,7 +59,7 @@
     <UnityVersion>2022.3.30f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="/Users/kingnan/.vscode/extensions/visualstudiotoolsforunity.vstuc-1.0.2/Analyzers/Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="/Users/kingnan/.vscode/extensions/visualstudiotoolsforunity.vstuc-1.0.3/Analyzers/Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll" />
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -110,8 +110,8 @@
     <Compile Include="Assets/scripts/project/GameMainManager/modules/AboutBuilding/getLocalModel/getLocalModel.cs" />
     <Compile Include="Assets/scripts/project/common/GlobalModel/gloabVariable/gloab_EventCenter_Name.cs" />
     <Compile Include="Assets/TEMP/plugins/pureMVC/Interfaces/ICommand.cs" />
-    <Compile Include="Assets/scripts/project/PrefabsScripts/Axes/AxesBaseClass.cs" />
     <Compile Include="Assets/TEMP/pureMVC/Controller/showPanelCommand.cs" />
+    <Compile Include="Assets/scripts/project/PrefabsScripts/Axes/AxesBaseClass.cs" />
     <Compile Include="Assets/scripts/baseProject/JsonDataManager/JsonDataManager.cs" />
     <Compile Include="Assets/TEMP/摄像机/cameraOperation.cs" />
     <Compile Include="Assets/scripts/project/GameMainManager/modules/receiveData/receiveDataController.cs" />
@@ -123,8 +123,8 @@
     <Compile Include="Assets/TEMP/pureMVC/PureMvcMain.cs" />
     <Compile Include="Assets/scripts/project/GameMainManager/mainManager.cs" />
     <Compile Include="Assets/TEMP/MVC/Controller/mainController.cs" />
-    <Compile Include="Assets/scripts/project/common/GlobalModel/Data/About_SQL/device_info_data.cs" />
     <Compile Include="Assets/scripts/project/GameMainManager/modules/AboutBuilding/buildingOptions/controller/buildingController.cs" />
+    <Compile Include="Assets/scripts/project/common/GlobalModel/Data/About_SQL/device_info_data.cs" />
     <Compile Include="Assets/scripts/project/common/GlobalModel/Data/About_SQL/customClass.cs" />
     <Compile Include="Assets/TEMP/functionManagerInheritMono.cs" />
     <Compile Include="Assets/scripts/project/common/GlobalModel/Data/About_SQL/BaseData.cs" />
@@ -539,16 +539,16 @@
       <HintPath>Library/PackageCache/com.unity.testtools.codecoverage@1.2.5/lib/ReportGenerator/ReportGeneratorMerged.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+    <Reference Include="Mono.Data.Sqlite">
+      <HintPath>Assets/plugins/SQLite/Mono.Data.Sqlite.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="AXES">
       <HintPath>Assets/plugins/AXES/AXES.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="Mono.Data.Sqlite">
-      <HintPath>Assets/plugins/SQLite/Mono.Data.Sqlite.dll</HintPath>
+    <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
+      <HintPath>Library/PackageCache/com.unity.visualscripting@1.9.4/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
